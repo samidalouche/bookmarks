@@ -1,15 +1,3 @@
-Politics
-=========
-- http://www.washingtonsblog.com/2014/09/sibel-2.html
-- http://www.informationclearinghouse.info/article40537.htm#.VJ9pF6VHhwU.twitter
-- http://www.theatlantic.com/magazine/archive/2014/11/doctors-tell-all-and-its-bad/380785/
-
-Food
-====
-
-- http://www.journaldemontreal.com/2014/09/28/les-75-meilleurs-vins-de-15-et-moins-a-la-saq-nouvelle-liste-a-conserver-et-a-partager
-
-
 Science
 =======
 
