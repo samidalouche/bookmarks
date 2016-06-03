@@ -378,13 +378,6 @@ http://articles.mercola.com/sites/articles/archive/2008/02/26/how-to-keep-your-h
 Computer Science
 ================
 
-- Distributed Systems reading list:
-  - https://dancres.github.io/Pages/
-  - http://muratbuffalo.blogspot.cz/2015/12/my-distributed-systems-seminars-reading.html?spref=tw
-
-- Video resources for Machine Learning
-  - http://dustintran.com/blog/video-resources-for-machine-learning/
-
 - Micro Services and Teams at Amazon
   - http://www.infoq.com/news/2015/12/microservices-amazon
 
