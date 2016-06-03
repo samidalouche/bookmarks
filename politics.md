@@ -27,7 +27,7 @@ Basic Income
 ------------
 
 - [Pragmatic Libertarian Case for Basic Income](http://www.cato-unbound.org/2014/08/04/matt-zwolinski/pragmatic-libertarian-case-basic-income-guarantee)
-- 
+
 
 Petrodollar
 -----------
