@@ -574,7 +574,7 @@ http://jnordenberg.blogspot.com/2014/09/type-classes-implicit-parameters-and.htm
 http://lmax-exchange.github.io/disruptor/
 Scalding, NoSQL, Scala, FP, Big Data
 http://www.infoq.com/interviews/wampler-scala-nosql
-http://www.eecs.harvard.edu/~kirsch/pubs/bbbf/esa06.pdf
+https://www.eecs.harvard.edu/~michaelm/postscripts/tr-02-05.pdf
 
 http://www.oracle.com/technetwork/java/javase/community/jvmls2013-2013900.html
 
